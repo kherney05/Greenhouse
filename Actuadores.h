@@ -15,7 +15,7 @@ extern const int ledGreen = 27;
 extern int humbralHumeFloor = 10;
 extern int humbralHume = 35;
 extern int humbralTemp = 25;
-extern int humbralLight = 50;
+extern int humbralLight = 20;
 
 //definicion de las funciones de los actuadores
 void actuadorSetup(void);
